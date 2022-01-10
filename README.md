@@ -1,2 +1,2 @@
-# Hello-World
+# Hello-CorporX
 It's a coming soon page
